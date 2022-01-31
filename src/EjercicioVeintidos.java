@@ -19,9 +19,6 @@ public class EjercicioVeintidos {
                     condicion = false;
                 }
             }
-            if (condicion) {
-                c = 50004;
-            }
         }
         return condicion;
     }
